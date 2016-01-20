@@ -4,7 +4,7 @@
 2. Understand how a name of a partial turns into it's filename
 3. Work with partials in a different folder
 
-## Instructios
+## Instructions
 
  * Include solution from previous lab.
  * Refactor the form stuff. It'll be painfully simple
