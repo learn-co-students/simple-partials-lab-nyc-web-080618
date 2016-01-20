@@ -1,0 +1,18 @@
+Classroom Info
+<p>
+<%= @classroom.course_name %>
+<%= @classroom.semester %>
+</p>
+
+We now want to call out the oldest student in the class:
+<ul>
+  <li>
+    Name: <%= @classroom.oldest_student.name %>
+  </li>
+  <li>
+    Birthday: <%= @classroom.oldest_student.birthday.strftime("%m/%d/%Y")  %>
+  </li>
+  <li>
+    Hometown: <%= @classroom.oldest_student.hometown.capitalize %>
+  </li>
+</ul>
