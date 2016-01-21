@@ -2,10 +2,9 @@
 
 ## Objectives
 
-1. Use the render keyword to do named partials
-2. Understand how a name of a partial turns into it's filename
-3. Work with calling partials in a different folder
-
+1. Use the `render` method to render partials
+2. Understand how the name of a partial turns into it's filename
+3. Practice rendering partials in a different folder
 
 ## Overview
 
