@@ -1,10 +1,4 @@
-Classroom Info
-<p>
-<%= @classroom.course_name %>
-<%= @classroom.semester %>
-</p>
-
-We now want to call out the oldest student in the class:
+<h1>Student Info</h1>
 <ul>
   <li>
     Name: <%= @student.name %>
