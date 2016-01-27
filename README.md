@@ -8,7 +8,7 @@
 
 ## Overview
 
-Flatiron is building out a new system to keep track of students in its classes.  You just joined the technical team, and see that there's lots of repetition in the view layer of the code base.  Use your new knowledge of partials to remove the duplication.
+Flatiron is building out a new system to keep track of students in its classes.  You just joined the technical team and see that there's lots of repetition in the view layer of the code base.  Use your new knowledge of partials to remove the duplication.
 
 ## Instructions
 
@@ -18,3 +18,4 @@ We've provided a seeds file so you can have some data to play around with - run 
 
 1. Remove the duplicated code in the students/edit.html.erb and students/new.html.erb files by making a partial called `students/_form.html.erb`
 2. Remove the duplicated code in the classrooms/show.html.erb and students/show.html.erb files by making a partial called `students/_student.html.erb`
+<a href='https://learn.co/lessons/simple-partials-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
