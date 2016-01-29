@@ -18,4 +18,4 @@ We've provided a seeds file so you can have some data to play around with - run 
 
 1. Remove the duplicated code in the students/edit.html.erb and students/new.html.erb files by making a partial called `students/_form.html.erb`
 2. Remove the duplicated code in the classrooms/show.html.erb and students/show.html.erb files by making a partial called `students/_student.html.erb`
-<a href='https://learn.co/lessons/simple-partials-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/simple-partials-lab' title='Simple Partials Lab'>Simple Partials Lab</a> on Learn.co and start learning to code for free.</p>
